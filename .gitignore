@@ -7,4 +7,5 @@ printer-[0-9]*_[0-9]*.cfg
 *.bkp
 calibration_data_x_20251109_032106.csv
 calibration_data_y_20251106_212026.csv
+calibration_data_y_20251109_035543.csv
 *.zip
